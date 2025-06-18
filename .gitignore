@@ -1,0 +1,76 @@
+node_modules
+# # Logs
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+
+# Optional: if you use .next or out/
+.next/
+out/
+
+# Ignore backend folder if it's generated or not needed
+# backend/
+
+# Ignore this only if it's not your project folder
+fireextinguisherprojectt/
+
+# Local env files
+.env
+*.local
+
+# Editor settings
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+.Trash-*
+._*
+
+# Windows project files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# logs
+# *.log
+# npm-debug.log*
+# yarn-debug.log*
+# yarn-error.log*
+# pnpm-debug.log*
+# lerna-debug.log*
+
+# node_modules
+# dist
+# dist-ssr
+# backend
+# fireextinguisherproject
+# *.local
+
+# # Editor directories and files
+# .vscode/*
+# !.vscode/extensions.json
+# .idea
+# .DS_Store
+# *.suo
+# *.ntvs*
+# *.njsproj
+# *.sln
+# *.sw?
+# .env
